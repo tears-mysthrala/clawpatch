@@ -1,5 +1,7 @@
 # 🩹 clawpatch
 
+> **Note:** This is a fork of openclaw/clawpatch used for PR #51 (Elixir Mix/Phoenix mapper), which was merged upstream on 2026-05-18. The fork is archived; contribute at the upstream repository.
+
 Automated code review that lands fixes.
 
 `clawpatch` maps a repo into semantic feature slices, reviews each slice with a
